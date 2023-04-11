@@ -16,6 +16,11 @@ const FeaturedJobsSection = () => {
                     featuredJobs.map(job => <FeaturedJobs key={job.id} job={job} />)
                 }
             </div>
+            <div className='flex justify-center pt-3'>
+                <button type='button' className='btn-primary'>
+                    See All Jobs
+                </button>
+            </div>
         </div>
     );
 };
