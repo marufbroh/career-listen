@@ -1,9 +1,10 @@
 import React from 'react';
 
-const FeaturedJobs = () => {
+const FeaturedJobs = ({ job }) => {
+    console.log(job);
     return (
-        <div>
-            
+        <div className='p-8 rounded-lg space-y-4 w-full'>
+hello
         </div>
     );
 };

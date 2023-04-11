@@ -16,6 +16,6 @@ const cartJobsLoader = async () => {
 //   }
   //   console.log(storedCart);
 
-  return { savedCart, featuredJobs };
+  return { storedCart, featuredJobs };
 };
 export default cartJobsLoader;
