@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "job_title": "Technical Database Engineer",
+    "company_logo": "https://devrahat.com/assets/Logo/google-1-1%201-1.png",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$100K - $150K",
+    "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "job_responsibilities": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "educational_requirements": "Bachelor degree to complete any reputational university.",
+    "required_experience": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "555-555-1234",
+      "email": "jobs@acmeinc.com"
+    }
+  },
+
+  {
+    "id": 2,
+    "job_title": "Senior Product Designer",
+    "company_logo": "https://devrahat.com/assets/Logo//netflix-4%201.png",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Onsite",
+    "location": "United State",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$100K - $150K",
+    "job_description": "Innovate, Inc. is seeking a talented Senior Product Designer to join our team. As a Senior Product Designer, you will work closely with our product managers and engineers to design and deliver exceptional user experiences for our suite of web and mobile applications. This is an exciting opportunity to use your design skills to make a meaningful impact on the lives of millions of users.",
+
+    "job_responsibilities": "The Senior Product Designer will be responsible for Leading the design of new products and features, from ideation to launch Conducting user research and usability testing to inform design decisions Creating wireframes, prototypes, and high-fidelity designs Collaborating with product managers and engineers to ensure designs are feasible and scalable Mentoring junior designers and providing feedback on their work Advocating for the user and ensuring that their needs and perspectives are reflected in the product Defining and maintaining design systems and guidelines to ensure consistency across all products and features Staying up-to-date with emerging trends and technologies in product design and user experience",
+    "educational_requirements": "Bachelor degree to complete any reputational university.",
+    "required_experience": "1-2 Years in this field.",
+    "contact_information": {
+      "phone": "555-525-2224",
+      "email": "jobs@netflixc.com"
+    }
+  },
+  {
+    "id": 3,
+    "job_title": "Software Engineer",
+    "company_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBwSF8vZtxCStTqdSjVMIdRuzW6lTnAv7SA&usqp=CAU",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "San Francisco, CA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$80K - $95K",
+    "job_description": "Innovate, Inc. is looking for a Software Engineer to join our dynamic team. As a Software Engineer, you'll work on complex software systems that support our growing suite of web and mobile applications. You'll collaborate with cross-functional teams, including product managers, designers, and engineers, to design, build, and deploy high-quality software that solves real-world problems for our users.",
+
+    "job_responsibilities": "Responsibilities for this position include: designing, developing, and maintaining high-quality software systems; collaborating with cross-functional teams to define product requirements and develop technical solutions; writing clean, maintainable, and well-documented code; participating in code reviews and providing constructive feedback to peers; troubleshooting and resolving issues in production; and staying up-to-date with emerging trends and technologies in software engineering.",
+    "educational_requirements": "Bachelor degree to complete any reputational university.",
+    "required_experience": "2-3 Years experience",
+    "contact_information": {
+      "phone": "555-500-7324",
+      "email": "jobs@tesla.com"
+    }
+  },
+
+  {
+    "id": 4,
+    "job_title": "Senior Frontend Developer",
+    "company_logo": "https://agsol.com/wp-content/uploads/2018/09/new-microsoft-logo-SIZED-SQUARE.jpg",
+    "company_name": "Microsoft",
+    "remote_or_onsite": "Remote",
+    "location": "Seattle, WA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$120K - $150K",
+    "job_description": "Microsoft is seeking a highly motivated Senior Frontend Developer to join our team. In this role, you will be responsible for building and maintaining cutting-edge web applications that are used by millions of users across the world. You'll work closely with our product and design teams to bring innovative ideas to life, and will have the opportunity to learn and grow as a developer.",
+    "job_responsibilities": "Responsibilities for this position include: developing new features and functionality for our web applications; collaborating with our product and design teams to create user-focused experiences; optimizing web applications for performance and scalability; writing clean, maintainable, and well-documented code; staying up-to-date with emerging trends and technologies in frontend development.",
+    "educational_requirements": "Bachelor's degree in Computer Science or a related field",
+    "required_experience": "5+ years of experience in frontend development",
+    "contact_information": {
+      "phone": "555-359-4269",
+      "email": "jobs@microsoft.com"
+    }
+  },
+
+  {
+    "id": 5,
+    "job_title": "Backend Developer",
+    "company_logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVYAAACTCAMAAADiI8ECAAABJlBMVEX///8jHyApOYYAAAAAc6kgHB3l5eUTV5cTDQ6Ih4grKCkLAAP19fUEAACmpqYNX5wAeK0cGBnCwsK8vL4GaKJ3dnYfMYNPTU0RCwwRWpkMYJ0YUJN0fKcEbqY5NziWlZUhQ4snN4Xt7e3L0d/IyMgaTZEAG3sAi75/f3/x9vkAfbLc3Nyzs7MlPolzc3NnZ2daWVphm8AiHBEVKoAjIy8AQIvAxdZEREQ3NzdNWpV2sdHf6/KnxdpkYmMASZEANYYiP4IAIn2HkLXI3erX5u8hkMBapMuYwtp/ttRPkbqiw9h9qsm30OE7h7SPtdBajbd5nsBsjbU6Z58NDR9UeamarciPmaKss8eMoMA7TY9TZptre6g2XJmCiq+iqMM6SY1pdKQAC3hzOPOuAAAOTElEQVR4nO2djV/iRhrHA0MwQAwGw5s2siIqAio9T7GrYl132926L7XX3u5ed6+9//+fuHlNJsnMgBRNxfn104Jh5snkm8kzzzMzUMPQ0tLS0tLS0tLS0tJ6NNpLuwGLqL3rtFuwiHr7Nu0WLKKea6rz194r7QHmr7crL9NuwgLq+cpZ2k1YPJ296mmqc9fb3q6OV+eu571Xmuq8BR3Aq7TbsHg672mq89cPvd0f0m7Dwunl7m5PU523fuxpqnPXHnQAvedpt2LRdL0LPcDrtFuxaHrdg1R/TLsVfz/tvfk21E93rfxKU5XoxssF8u42/XTdQx7g/J4a9sjl51ZC3aXia0xVT1qLde6HVHPfTl0NO4Ddnp60lqmXC/urP+0j/RZB1VQVuvZ4rtPNmD4nVPVSgEJv/FwItjdFhbNdQlVPWqt0hoMB1l1vJpY/z2mq0+jGz4VgvUlj+w8ruz2YsOqlgInyaeBK+quS18sekaY6WedBToCirHeKkj/mNNXp1QsyrZXciv9eWu4NpaqXAqbS9VqYwkL3KgmcrmGggLTy5mFb93j1xs9xEiex7/2epno3na3xWH1BErv3jjqAO2S4WvxMVi7nJZLY69wKpTo5sNUK5UXcgBeL9W98SnWKdOFJqu8cblggVJ0eP/d8Hmwkid1759PRyn9fAVFZp8PCqp04S+tio8GV6uKjB9Gqy8Vhq8PXypPjq/yxjtDSIf2rwJVcxUdG8B1oSLT8l/GJNSiCkmWamUDukH204kOuAVm+V76lc7KIKmx8JiLTdOFduujzZ3Fc0HD5s1gERtWK1XUbwGqF9fLYNo81aakQsQTaYdkKqu2ibgJMidw5ogxlj4AZvTAO63XZ97kOGyaxN14wv/WTkcBKrxY4IZxi4iwxGBG0y5nglsSx9idasqrh1XFYRU3Et/E+qLbd5GWFWI03ns+D9UgiddYL5rnxQCbGCmEwrn3gJqnLscKLBcwTxLBOYwnkU8e6QVtpWqVAgW+FAJu+z4H1cRIL89qgr+L+S7FaTMGV0+fRbpiCsxAn0MUwXHa0YZmUa16EVWUpwGodirAyX8r6NP2zBO6BamuZXkSx64QahAVu1nwerAeT2G+9cGqLLAUQrMVuleigDuiD2iD96IBcigs2CtxZOiFWd8gOtg5LpEnuhgjrocJS2O9B4EJCrIUWFWmMFfzN+fF5ySbdzM10pEU8z4twPV/xgxkYSpVgNTe4WoOSGT5hedqZN/oC+xiGxY/eDrkngNzcCNY+tTSSWiLXE3ixEGugDuCeo/uRU8IXX0wEQ6HOy1GwXIrgs3mCJFbaeOLm6HNeTxo3RFhpXWovgpWQ43x/wlLGdfnuKsBaAUHD7ksbZvSZESnnxTpsQDVIDwRYjTp2sHjkIT0XiO9dN4mVAiLNimAlvCWW6A1CJ3ZH9FgqWNv4DO6FstD1kicGGyZdIqwFi+EgnS9GLpAIK3nWG9jr8ViJpYbEEsHaxYVYIJEKVjLULA/UpT6seUmw/go3aS3C2mow2+QdkLhvgROgvZLQ4LFSS5KHi1iq4ueEDXipYFU3k+mMdNcIWL/HLwWoeysZvWVjhBDriHgQ9JbHeuEqvEmAFfd16jVSwXroTjUo3jRjXH0/usYtwlo0WR+lDlxiXOQEaESGG8ZjLSotMazG0EXDMD6WClbSKcxiTJm4s11b86JgYzsHBFidMBIg7xJnMQlKIdZC+BjxWNWWAqyku2LXlgrWDM1oYrLiAczP5bWQLMLqRXcEJbDmu5QAiltp2hg/S4PLjeJYOXfMYbVllmJYsdshIXMqWBvxSQuieFx4u7TGYcVgvcgqK01eh3WikQloZI4umMGIi8/k41hJPI1Zcljb01iqsjrLaEIiFawlcTOjWM+8pXI5ztWLLG1RrC5TcLeQd5wAQ+gE/iJW/NYsGelitWJa5rGej5vlMuHKu1jvA1dGMoNlYv/Gemv8LPxUi8QJSLBKLHFYcclSK1XfanULMYXzpMbtuAkVgA177Bq3c0CI1SzRrJ7m8fGTFAYcjLv4VldpiUy24jEPRmIpRgKKAOusub7UZFxjYJvhxqy4E3CtxjIwWzS+pDGB5BRCrN0we01GAhMDLAPdARN79nTiVi73Funj8foSlARsMzonkMnUmYbV1iBstvrmCZ3AMIz7eawbqsmFCFajVcIlU8yyllclH98SqnKwLBwQpQOhqsqbJ+yteKWKn1UkWA+msMRWXND8Dp0geGisykmQsy/jdYaVA0u4YrJrbMObGusAz0uXHPGnIqxkbLIO0HseKwkQ1JYYVgedddlppICVTrSVRB+dHG+vQy2tS8AilX8mZdVY2/z0aUIirDS+wiMRj5W8d5WWgvVB3OMFM70PgJUMDTTfiej2ElPFZLG2CdhypMc2yU4XNVbmKcWdTOBb7RKX+0fmW+sqSzGsgyA8eXCsdDkEVGOjwNmX420oxhX+09y7jQcFqL8u4Sx2Ala2UiBcNUr21k7G5W52BGtlsqVwNbtopoXV6OJBK2OBi9ZglWgwWHUux9tEFOz2L7axN6aOIJIelNGwNQGrMSS5bAMcOOws8Dzcwp57wQ46BbYPgIYO0SVC0l0zJaklDmsQTT88VqNIF5/dxnKofzGqlOv4V1T0t/FSAqy35huTsdrLtONYpfAkkWVolx0t0QXt4EmPYm2DCZb4vRdssT4FrKLtF5l/Pns23g477PEtKdsURLFe+cNkrKpNE13h9osMYGv9d9x+wWOlzicNrKLNQggrB/b4Ey26dSyKYpfeT8Z6x81CGRcEdOKbhfLFZZUlHitzGWlgxVvbGm6kqRjrszHBevlbUPLXRHqAuK5fVyZihUFTA1iRs8iwmm4JjMKFr+TWtpbKUgQr3VaQDla0RXLoog2LjX8QZZ4RQa7jy5Ow3NlxIohFYJv/xtsdMxPO0inU+d2etEPGNmICUDx0+EsWbsSMWeI3Yh7wBYfk88gNJ3szHwIrlm0bHze/J3oW6HKLL/NpvCTIZ8vlto003VlCJQ4IjUgOSy2JCk1l8L709WifKqB6HPuCy7own23++nCNfGxqf67tx7AeP4t/g+3keJ0jG3TYpZ9TafIj0MnVZnY/ynX/S/JR+WV7XQR2Xf+OiFBfd7JQ+zzYy/8Iyr28XI/MwDBPsK1/nSGp9uejLFHItfa7sOjteD3SXynY5pL+xmtcyAEEolSPXojL2sfRma0gofUets1/f33d4ahSrlf/lZX+eBxMGUY8wdIHWY0nqb3AAYRgszsf5RW+hDNbkaFr/Td5nSenk2hXxdq8OlHU2Lrk52I5sGP9A1hMX0VUj7aUdX4f83OxXI/d1j/VgtVOOoBstrY5YWfm3tExrzHT9nibhAOd1Uql0jGMChL8u7+KMvA+2jnUD19hOTyjwqZVOhX8YqOaRt9m/8Gf4Bb18UueLLx2yL/sVMRSxebOgyyFgTc5C61s5FcnbOr9Kzq5qgmo/jExX365JRPJdQ/rVqN+YfQB2jRgGF1QR7Mh9ZZhOEX42iCveVA00RIAWaC2gXuK3vXBCDRso46mT8gESxtkRuiTEfwEku/imdg+WumCR6t1E9SH0JYNLVjYQt2F9k/RVNWoGGzV6JN3VTITU4AtiszJzFMiB5A9+m4epguISp5cig3y8G3bGEKsg1M0rTQwnBG8RMinXmBYW/CT6gU5YrUgyzZmYxCONpqURrtmoWnMg2GFFRHmNsSKineHoX13gOsRUazdKmtR+57msIQOIHv051yMF8h+SPweX5EDL9ehWDMAXzb6GzEiWFGNATyaQV/igEe6B/QDo0Dooqp9FVZsYQPZt7D9YnTqFb8QrLhhE74xMaOEDiB79XU+1inWVqsd0DWGxeFwA+M0BwMhVodgzWNPCg7opnA7A7r2NFjhBw7EWndcbL8PuBXaJNZ7EZkDiGvn0+SaU0mItdvvo0e97nSACmu/gXE44a6tShG+vwPWCnDwF7MccMpMPAjW9nciB7CpSgLupoQTgAMx8611xzg16yoncIiwdvhrzzjTOQGC1Til6yx2sF8riVX+fdRZJXYAmzuqJOBu4rGiS25zQxa87A76EvgBLHMBhzYydrQg0gIccEaw1ClazA6wDqAHGDlwYEcLJtQ0NmrjmgFWZoHZR0YSWPH6jA1bY899yHohigBgaqVOAu6kLupSLMAagioYhgEWAjfCXe9iiL8JM6rD4b8N6odon3AFHIzwVssA6wE90jg9QJsHYHBUH9nMKCGJAyxmAdsfod+76KKfEylifKgtowGK9VDlQ1C1xF/BnVl7QgeQ3azN8+7lsTEYqa+iGL+Cv5qOwnS7H74abcfB/GAp+Kc9cLAzzdPv3dvBU9qnRwYO3kcMEwAUz3YcPsJH76mFwH7FQSdvkCALtSWfqDw3iR1Atra/qPOllYc4yQthBJCtfX6Iky+qBJOAWEei9RWtKSVxANmrb9Ju2WOWxAFkdyTrK1pTSOYANnek6ytaEyVzANk5JgFPTzIHMNck4KlJkgKg9ZV7nCVfdEkdQC17nz8HteCSOYBs7Y9FTa3uX1IHMKf1laepkyOJA8he/Zl22x6vpA5gbusrT1ByB5DVScDM2pI6gDmurzw5iVcBCFWdWs0ohQOYtMlKSyq5A8jWanoL2oySOwCdBMwshQPQScDMUjiAeW2yeoJSOAC9vjKrVA5Ar6/MKpUD0Osrs0rlAHQSMKOUDkCvr8wolQPIbuokYDapHEC2tq/XV2aR0gFka58f8PceFkhKB6A3Wc0opQPQ6yuzyVY6gOyVTgJmkdoB6PWV2aR2AHp9ZSapIwBIVScBM2irpnQAm0eS/1W7lkov/ldTatKX2LVE+vTnN2rpJEBLS0tLS0tLS0tLS0tLa4H0f2rc6bgz7SNaAAAAAElFTkSuQmCC",
+    "company_name": "Tech Solutions LLC",
+    "remote_or_onsite": "Onsite",
+    "location": "Austin, TX",
+    "fulltime_or_parttime": "Part-time",
+    "salary": "$90,000 - $110,000",
+    "job_description": "Tech Solutions LLC is seeking a talented backend developer to join our team. The successful candidate will work on building and maintaining our API platform, which powers our suite of web and mobile applications. This is an exciting opportunity to work on complex and challenging problems in a collaborative and innovative environment.",
+    "job_responsibilities": "Responsibilities for this position include Designing and implementing scalable and reliable backend systems Developing and maintaining RESTful APIs Collaborating with frontend developers and product managers to deliver high-quality software Troubleshooting and resolving issues in production Staying up-to-date with emerging trends and technologies in backend development",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "required_experience": "At least 5 years of experience in backend development",
+    "contact_information": {
+      "phone": "555-555-5678",
+      "email": "careers@techsolutions.com"
+    }
+  },
+
+  {
+    "id": 6,
+    "job_title": "Software Developer",
+    "company_logo": "https://www.deinmarktplatz.eu/images/logos/1/acme_vfcz-z1.png",
+    "company_name": "Acme Inc.",
+    "remote_or_onsite": "Remote",
+    "location": "San Francisco, CA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$100,000 - $120,000",
+    "job_description": "Acme Software is seeking a highly skilled and motivated Software Developer to join our team. In this role, you will be responsible for designing and developing software solutions that meet our clients' needs. You'll work closely with our product and design teams to ensure that our software solutions are user-friendly, scalable, and reliable.",
+    "job_responsibilities": "As a Software Developer, you will design and develop software applications, collaborate with cross-functional teams, write clean and maintainable code, troubleshoot software issues, and stay up-to-date with emerging technologies.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "required_experience": "3+ years of experience in software development",
+    "contact_information": {
+      "phone": "555-555-1234",
+      "email": "jobs@acmeinc.com"
+    }
+  }
+]
