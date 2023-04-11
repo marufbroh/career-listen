@@ -1,13 +1,44 @@
-import React from 'react';
+import React, { useContext, useState } from 'react';
 import { useLoaderData } from 'react-router-dom';
+import vector from '../../assets/Vector.png';
+import vector1 from '../../assets/Vector-1.png'
+import { addToDb } from '../../utilities/fakeDb';
+import { StoredCartContext } from '../../App';
 
 const JobDetails = () => {
     const { detailsdata } = useLoaderData();
     const { id, job_title, company_logo, company_name, remote_or_onsite, location, fulltime_or_parttime, salary, job_description, job_responsibilities, educational_requirements, required_experience, contact_information } = detailsdata;
+
+
+    const [cart, setCart] = useContext(StoredCartContext);
+    // console.log(cart);
+
+    const handleAddToCart = (job) => {
+        let newCart = []
+        const exists = cart.find(
+            existingJob => existingJob.id === job.id
+        )
+        if (!exists) {
+            job.quantity = 1
+            newCart = [...cart, job]
+        } else {
+            // exists.quantity = exists.quantity + 1
+            const rest = cart.filter(
+                existingJob => existingJob.id !== product.id
+            )
+            newCart = [...rest, exists]
+        }
+
+        setCart(newCart)
+        addToDb(job.id)
+    }
+
     return (
         <div>
-            <div className='bg-color py-12 lg:pt-16 lg:pb-24 flex justify-center'>
-                <h3 className='font-bold text-3xl'>Job Details</h3>
+            <div className='bg-color py-12 lg:pt-16 lg:pb-24 relative'>
+                <img className='hidden lg:flex absolute -top-24 -right-1' src={vector1} alt="" />
+                <h3 className='font-bold text-3xl text-center'>Job Details</h3>
+                <img className='hidden lg:flex absolute bottom-0 left-0' src={vector} alt="" />
             </div>
             <div className='px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20'>
                 <div className='flex flex-col lg:flex-row justify-between gap-4'>
@@ -61,7 +92,7 @@ const JobDetails = () => {
                                 </div>
                             </div>
                         </div>
-                        <button type='button' className='btn-primary'>
+                        <button onClick={() => handleAddToCart(detailsdata)} type='button' className='btn-primary'>
                             Apply Now
                         </button>
                     </div>
