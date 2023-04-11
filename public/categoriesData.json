@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "Category_logo": "https://devrahat.com/assets/Icons/accounts%201.png",
+    "Category_name": "Account & Finance",
+    "Jobs_available": "300 Jobs Available"
+  },
+  {
+    "id": 2,
+    "Category_logo": "https://devrahat.com/assets/Icons/business%201.png",
+    "Category_name": "Creative Design",
+    "Jobs_available": "100 Jobs Available"
+  },
+  {
+    "id": 3,
+    "Category_logo": "https://devrahat.com/assets/Icons/social-media%201.png",
+    "Category_name": "Marketing & Sales",
+    "Jobs_available": "150 Jobs Available"
+  },
+  {
+    "id": 4,
+    "Category_logo": "https://devrahat.com/assets/Icons/chip%201.png",
+    "Category_name": "Engineering Job",
+    "Jobs_available": "224 Jobs Available"
+  }
+]
