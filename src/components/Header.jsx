@@ -10,7 +10,7 @@ const Header = () => {
                     to='/'
                 >
 
-                    <div className='text-xl lg:text-2xl font-bold tracking-wide text-gray-800 '>
+                    <div className='text-3xl lg:text-4xl font-bold tracking-wide text-gray-800 '>
                         CareerListen
                     </div>
                 </Link>
