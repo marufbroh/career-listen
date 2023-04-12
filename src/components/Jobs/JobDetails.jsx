@@ -18,7 +18,7 @@ const JobDetails = () => {
         }
     }, [])
 
-    const { id, job_title, company_logo, company_name, remote_or_onsite, location, fulltime_or_parttime, salary, job_description, job_responsibilities, educational_requirements, required_experience, contact_information } = job;
+    const { id, job_title, location, salary, job_description, job_responsibilities, educational_requirements, required_experience, contact_information } = job;
 
 
     const [cart, setCart] = useContext(StoredCartContext);
@@ -37,7 +37,7 @@ const JobDetails = () => {
             toast.error('You have already applied')
             // exists.quantity = exists.quantity + 1
             const rest = cart.filter(
-                existingJob => existingJob.id !== product.id
+                existingJob => existingJob.id !== job.id
             )
             newCart = [...rest, exists]
         }
