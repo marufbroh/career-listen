@@ -14,7 +14,7 @@ const AppliedJobs = () => {
                 <h3 className='font-bold text-3xl text-center'>Applied Jobs</h3>
                 <img className='hidden lg:flex absolute bottom-0 left-0' src={vector} alt="" />
             </div>
-            <div className='my-container'>
+            <div className='my-container flex flex-col gap-4'>
                 {
                     cart.map(job => <AppliedJobsItems key={job.id} job={job} />)
                 }

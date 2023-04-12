@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const FeaturedJobs = ({ job }) => {
-    const { id, job_title, company_logo, company_name, remote_or_onsite, location, fulltime_or_parttime, salary, job_description, job_responsibilities, educational_requirements, required_experience, contact_information } = job;
+    const { id, job_title, company_logo, company_name, remote_or_onsite, location, fulltime_or_parttime, salary} = job;
     return (
         <div className='p-8 rounded-lg space-y-4 w-full border flex flex-col'>
             <div className='w-24 h-24'>

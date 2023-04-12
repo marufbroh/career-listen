@@ -16,10 +16,7 @@ const JobDetails = () => {
             setJob(detailsdata)
         }
     }, [])
-    // console.log(job);
 
-
-    // const { detailsdata } = useLoaderData();
     const { id, job_title, company_logo, company_name, remote_or_onsite, location, fulltime_or_parttime, salary, job_description, job_responsibilities, educational_requirements, required_experience, contact_information } = job;
 
 
