@@ -4,12 +4,12 @@ import { Link } from 'react-router-dom';
 const AppliedJobsItems = ({ job }) => {
     const { id, job_title, company_logo, company_name, remote_or_onsite, location, fulltime_or_parttime, salary } = job;
     return (
-        <div className='border p-5 rounded-lg flex flex-col lg:flex-row justify-between items-center gap-4'>
-            <div className='flex flex-col lg:flex-row gap-4'>
-                <div className='bg-slate-50 rounded-lg flex items-center justify-center p-12'>
+        <div className='border p-5 rounded-lg flex flex-col lg:flex-row justify-between items-center gap-6'>
+            <div className='flex flex-col lg:flex-row gap-4 items-center'>
+                <div className='bg-slate-50 rounded-lg flex items-center justify-center py-16 px-12'>
                     <img className='h-14 w-36' src={company_logo} alt="" />
                 </div>
-                <div className='space-y-2'>
+                <div className='space-y-3'>
                     <h3 className='font-bold text-xl'>{job_title}</h3>
                     <p className='text-gray-500 font-semibold text-lg'>{company_name}</p>
                     <div className='inline-flex gap-2'>
