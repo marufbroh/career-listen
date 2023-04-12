@@ -9,7 +9,6 @@ import { ScrollRestoration } from "react-router-dom";
 const App = () => {
   const { savedCart, featuredJobs } = useLoaderData();
   const [cart, setCart] = useState(savedCart);
-  // console.log(cart);
   return (
     <FeaturedJObsContext.Provider value={featuredJobs}>
       <StoredCartContext.Provider value={[cart, setCart]}>
