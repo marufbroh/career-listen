@@ -7,7 +7,7 @@ import AppliedJobsItems from './Jobs/AppliedJobsItems';
 const AppliedJobs = () => {
     const [cart, setCart] = useContext(StoredCartContext);
 
-    const [filteredCar, serfilteredCar] = useState(cart)
+    const [filteredCart, setfilteredCart] = useState(cart)
 
     return (
         <div>
@@ -29,16 +29,16 @@ const AppliedJobs = () => {
 
                         <ul tabIndex={0} className="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52">
                             <li className='hover:bg-slate-200'><button onClick={() => {
-                                serfilteredCar(cart.filter(job => job.remote_or_onsite === 'Remote'))
+                                setfilteredCart(cart.filter(job => job.remote_or_onsite === 'Remote'))
                             }}>Remote</button></li>
                             <li className='hover:bg-slate-200'><button onClick={() => {
-                                serfilteredCar(cart.filter(job => job.remote_or_onsite === 'Onsite'))
+                                setfilteredCart(cart.filter(job => job.remote_or_onsite === 'Onsite'))
                             }}>On-site</button></li>
                         </ul>
                     </div>
                 </div>
                 {
-                    filteredCar.map(job => <AppliedJobsItems key={job.id} job={job} />)
+                    filteredCart.map(job => <AppliedJobsItems key={job.id} job={job} />)
                 }
             </div>
         </div>
