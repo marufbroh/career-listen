@@ -130,7 +130,7 @@ const Header = () => {
                     )}
                 </div>
                 <button type='button' className='btn-primary hidden lg:flex'>
-                    Star Applying
+                    Start Applying
                 </button>
             </div>
         </div>
