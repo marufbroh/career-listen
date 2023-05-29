@@ -42,7 +42,7 @@ const Footer = () => {
                         <h4 className='text-xl font-bold'>Contact</h4>
                         <div className='text-gray-500 space-y-3'>
                             <p>524 Broadway , NYC</p>
-                            <p>+1 777 - 978 - 5570</p>
+                            <p>+1 111 - 111 - 1111</p>
                         </div>
                     </div>
                 </div>
